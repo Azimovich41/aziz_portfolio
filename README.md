@@ -9,3 +9,5 @@ Using a 3-year database from the (https://nsrdb.nrel.gov/) website, predict futu
 
 2. Heart Risk Classifier
 A classification model for predicting whether a patient shows signs of heart disease based on their physical characteristics (such as age, gender, cholesterol level, etc.).
+
+Source: https://archive.ics.uci.edu/ml/datasets/Heart
