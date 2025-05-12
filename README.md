@@ -1,4 +1,4 @@
-# Data Analys and Data Scientist
+# Data Analysе and Data Scientist
 
 ### Education 
 B.S., Nuclear Physics   National Research Nuclear University MEPhI (May, 2025)
