@@ -1,6 +1,6 @@
 # Data Analyst and Data Scientist
 
-## Technical Skills: Python, SQL, Excel, R
+## Technical Skills: Python, SQL, Excel
 ## Education 
 B.S., Nuclear Physics   National Research Nuclear University MEPhI (May, 2025)
 
