@@ -10,3 +10,6 @@ Using a 3-year database from the (https://nsrdb.nrel.gov/) website, predict futu
 
 ### [Project 2: Heart Risk Classifier](https://github.com/Azimovich41/aziz_portfolio/tree/main/Project%202%20(DA%20%2B%20DS))
 A classification model for predicting whether a patient shows signs of heart disease based on their physical characteristics (such as age, gender, cholesterol level, etc.). Source: https://archive.ics.uci.edu/ml/datasets/Heart
+
+### [Project 3: Data Modeling & Optimization for Online Bookstore](https://github.com/Azimovich41/aziz_portfolio/tree/main/Project%203%20(DA))
+A comprehensive data modeling and optimization task involving database design for an online bookstore. The scenario requires creating conceptual, logical, and physical data models to manage books, authors, customers, and orders.
