@@ -19,4 +19,4 @@ A comprehensive data analysis task utilizing an HR database in PostgreSQL. The p
 
 ### Sertificates 
 ##### [Fundamentals of statistics, Part2](https://drive.google.com/file/d/1sEA0JdtILVfebUWEspAa6XcajuL0eYVj/view)
-##### [Initial SQL Course: from Beginner to Specialist](https://drive.google.com/file/d/1dZztbWAZYSKhgrzlaFmTJf0_rFJomZvR/view)
+##### [Initial SQL Course: from Beginner to Specialist](https://drive.google.com/file/d/105QMvfcUfRoa0yTHb58kiEPf17t_cAmB/view)
