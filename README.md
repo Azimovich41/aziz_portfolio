@@ -18,5 +18,5 @@ A comprehensive data modeling and optimization task involving database design fo
 A comprehensive data analysis task utilizing an HR database in PostgreSQL. The project involves designing and executing SQL queries to explore employee, department, and location data, covering basic selections, aggregations, joins, subqueries, window functions, and CTEs, optimizing for analytical insights and learning relational database management.
 
 ### Sertificates 
-[Fundamentals of statistics, Part2](https://drive.google.com/file/d/1sEA0JdtILVfebUWEspAa6XcajuL0eYVj/view)
-[Initial SQL Course: from Beginner to Specialist](https://drive.google.com/file/d/1dZztbWAZYSKhgrzlaFmTJf0_rFJomZvR/view)
+##### [Fundamentals of statistics, Part2](https://drive.google.com/file/d/1sEA0JdtILVfebUWEspAa6XcajuL0eYVj/view)
+##### [Initial SQL Course: from Beginner to Specialist](https://drive.google.com/file/d/1dZztbWAZYSKhgrzlaFmTJf0_rFJomZvR/view)
