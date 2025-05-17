@@ -16,3 +16,6 @@ A comprehensive data modeling and optimization task involving database design fo
 
 ### [Project4 : HR Database Analysis & SQL Query Optimization](https://github.com/Azimovich41/aziz_portfolio/blob/main/Project%204%20(DA)/HR_analysis.sql)
 A comprehensive data analysis task utilizing an HR database in PostgreSQL. The project involves designing and executing SQL queries to explore employee, department, and location data, covering basic selections, aggregations, joins, subqueries, window functions, and CTEs, optimizing for analytical insights and learning relational database management.
+
+### Sertificates 
+[Fundamentals of statistics, Part2](https://drive.google.com/file/d/1sEA0JdtILVfebUWEspAa6XcajuL0eYVj/view)
