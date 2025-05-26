@@ -14,8 +14,11 @@ A classification model for predicting whether a patient shows signs of heart dis
 ### [Project 3: Data Modeling & Optimization for Online Bookstore](https://github.com/Azimovich41/aziz_portfolio/tree/main/Project%203%20(DA))
 A comprehensive data modeling and optimization task involving database design for an online bookstore. The scenario requires creating conceptual, logical, and physical data models to manage books, authors, customers, and orders.
 
-### [Project4 : HR Database Analysis & SQL Query Optimization](https://github.com/Azimovich41/aziz_portfolio/blob/main/Project%204%20(DA)/HR_analysis.sql)
+### [Project 4 : HR Database Analysis & SQL Query Optimization](https://github.com/Azimovich41/aziz_portfolio/blob/main/Project%204%20(DA)/HR_analysis.sql)
 A comprehensive data analysis task utilizing an HR database in PostgreSQL. The project involves designing and executing SQL queries to explore employee, department, and location data, covering basic selections, aggregations, joins, subqueries, window functions, and CTEs, optimizing for analytical insights and learning relational database management.
+
+### [Project 5 : Retail Sales Analytics](https://github.com/Azimovich41/aziz_portfolio/tree/main/Project%205%20(DA))
+An Excel-based data analysis project exploring the Superstore Sales dataset to uncover retail trends. Includes data preparation with Power Query, pivot table summaries, and dashboard visualizations to address customer loyalty, sales by region, product performance, and delivery times, aiding in strategic decision-making and performance evaluation. 
 
 ### Certificates 
 ##### [Fundamentals of statistics, Part2](https://drive.google.com/file/d/1sEA0JdtILVfebUWEspAa6XcajuL0eYVj/view)
